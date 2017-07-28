@@ -1,0 +1,89 @@
+body{
+  font-size: 14px;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+}
+h4{
+  font-family: 'Dancing Script', cursive;
+}
+.nav-border{
+  border-top: 4px solid #4285f4;
+  border-bottom: 1px solid #4285f4;
+}
+.navbar-default {
+    background-color: #fff;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: #4285f4;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff;
+}
+.navbar-default .navbar-nav>li>a {
+    color:#4285f4;
+}
+.navbar-nav>li {
+    margin-left: 10px;
+}
+.navbar-default .navbar-brand{color:#4285f4}
+.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{border-bottom: 2px solid #4285f4;background-color:transparent}
+.navbar-search{
+  margin: 10px 130px;
+}
+.main-content{
+  margin-bottom: 100px;
+}
+.title{
+  width: 100%;
+  padding: 10px;
+}
+.bag-kanan{
+  float: right;
+  width: 25%;
+}
+.bag-kanan a{
+  float: right;
+font-size: 16px;
+margin-top: 20px;
+margin-bottom: 15px;
+border-bottom: 1px solid #4285f4;
+}
+.bag-kanan a{
+  text-decoration: none;
+}
+.bag-kiri{
+  float: left;
+  width: 70%;
+}
+.title-content{
+  padding-left: 10px;
+  background-repeat: no-repeat;
+  background-position: 0 2px;
+  font-size: 16px;
+  margin-bottom: 15px;
+  text-transform: capitalize;
+  color: #4285f4;
+  font-weight: bold;
+}
+.myimg{
+  width: 100%;
+  max-height: 192px;
+}
+.footer{
+  background-color: #262626;
+  color:#fff;
+}
+.footer-cpr{
+  background-color: #1a1a1a;
+}
+.footer-cpr p{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+.bd-b{
+  border-bottom: 4px double black;
+}
